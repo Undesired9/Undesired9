@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Muhammad Hashir<br>##Full Stack Software Engineer<br>
+## Hi there 👋 I'm Muhammad Hashir<br>Full Stack Software Engineer<br>
 # 💫 About Me:
 <br>🌱 I’m currently learning the .NET ecosystem, MERN Stack, and React Native<br>💬 How to reach me: hashir4480@gmail.com
 
